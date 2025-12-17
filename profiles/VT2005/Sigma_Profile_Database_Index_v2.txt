@@ -1,0 +1,18 @@
+Index No.	Chemical Formula	Compound Name	CAS #	Chemical Family	"Vcosmo, A3"	COSMO Segments	Pre-opt tool	Temp. (K)	ln Pvap
+1	CH4	METHANE_EXAMPLE	74-82-8	n-Alkanes	37.95554	212	MS Forcite	111.66	12.4145
+2		"1,2-propanediol"			102.58086638110375	487	Turbomole		
+3		"1,3-propanediol"			102.04443772628309	510	Turbomole		
+4		"1,4-butanediol"			124.43514760015059	615	Turbomole		
+5		"2,3-butanediol"			124.67965237375668	528	Turbomole		
+6		Ammonia			30.690535552459945	168	Turbomole		
+7		Carbon_dioxide			47.46949041	194	Turbomole		
+8		Choline_chloride			189.57862852437884	679	Turbomole		
+9		Diethylene_glycol			134.65692898399826	624	Turbomole		
+10		Ethylene_glycol			80.68953898423779	400	Turbomole		
+11		Furfuryl_alcohol			119.37315786294799	512	Turbomole		
+12		Glycerol			112.16693535357554	522	Turbomole		
+13		Guaiacol			154.26028443875623	661	Turbomole		
+14		Levulinic_acid			145.43736672935802	624	Turbomole		
+15		Phenol			120.20151039898317	541	Turbomole		
+16		Triethylene_glycol			189.94019921989332	912	Turbomole		
+17		Urea			71.68287223285681	354	Turbomole		
