@@ -4,6 +4,7 @@ numpy
 plotly
 thermo
 scikit-learn
+xgboost
 pubchempy
 openpyxl
 xlsxwriter
