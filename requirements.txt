@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+thermo
+scikit-learn
+pubchempy
+openpyxl
+xlsxwriter
